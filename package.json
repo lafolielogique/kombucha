@@ -1,0 +1,24 @@
+{
+  "name": "challenges-lafolielogique",
+  "version": "1.0.0",
+  "description": "Traci Emerson",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync  start --server --files='**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imt-549-sp19/challenges-lafolielogique.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imt-549-sp19/challenges-lafolielogique/issues"
+  },
+  "homepage": "https://github.com/imt-549-sp19/challenges-lafolielogique#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
